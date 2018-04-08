@@ -1,0 +1,9 @@
+c:\users\omr_k\documents\visual studio 2017\Projects\Locker\Klasör Kilitleyici\bin\Debug\Klasör Kilitleyici.exe.config
+c:\users\omr_k\documents\visual studio 2017\Projects\Locker\Klasör Kilitleyici\bin\Debug\Klasör Kilitleyici.exe
+c:\users\omr_k\documents\visual studio 2017\Projects\Locker\Klasör Kilitleyici\bin\Debug\Klasör Kilitleyici.pdb
+c:\users\omr_k\documents\visual studio 2017\Projects\Locker\Klasör Kilitleyici\obj\Debug\Klasör Kilitleyici.csprojResolveAssemblyReference.cache
+c:\users\omr_k\documents\visual studio 2017\Projects\Locker\Klasör Kilitleyici\obj\Debug\Klasör_Kilitleyici.Form1.resources
+c:\users\omr_k\documents\visual studio 2017\Projects\Locker\Klasör Kilitleyici\obj\Debug\Klasör_Kilitleyici.Properties.Resources.resources
+c:\users\omr_k\documents\visual studio 2017\Projects\Locker\Klasör Kilitleyici\obj\Debug\Klasör Kilitleyici.csproj.GenerateResource.Cache
+c:\users\omr_k\documents\visual studio 2017\Projects\Locker\Klasör Kilitleyici\obj\Debug\Klasör Kilitleyici.exe
+c:\users\omr_k\documents\visual studio 2017\Projects\Locker\Klasör Kilitleyici\obj\Debug\Klasör Kilitleyici.pdb
